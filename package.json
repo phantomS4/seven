@@ -1,0 +1,22 @@
+{
+  "name": "sevenDay",
+  "version": "1.0.0",
+  "description": "study nodejs in seven days",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/phantomS4/seven.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phantomS4/seven/issues"
+  },
+  "homepage": "https://github.com/phantomS4/seven"
+}
